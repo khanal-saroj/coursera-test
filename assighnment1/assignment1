@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+ <head>
+
+  <title>module2 assignment1</title>
+  <meta name="viewport" content="width=device-width", initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="module2assignment.css"
+
+  </head>
+
+  <body>
+  <h1>touristic places of nepal</h1>
+
+  <div class="col-lg-4 col-md-6 col-sm-12">
+   <div class="box">
+     <p class="content-name place1">mustang</p>
+     <p class="content">Mustang lies in the northern part of western development region covered with cold desert.Also known as country beyond mountains; it really is like heaven in earth.</p>
+    </div>
+   </div>
+
+ <div class="col-lg-4 col-md-6 col-sm-12">
+   <div class="box">
+     <p class="content-name place2">Rara</p>
+     <p class="content">Rara lies in the northern part of mid-western development region. It is a lake of beauty that reflects heaven in the image. Way to rara lake is really a adventerous trip</p>
+    </div>
+   </div>   
+
+ <div class="col-lg-4 col-md-12 col-sm-12">
+   <div class="box">
+     <p class="content-name place3">Everest</p>
+     <p class="content">Situated in north east part of nepal bordering with tibet; Everest is really a roof of the world. Snow covered peak of everest really shines the beauty of Nepal in whole world.</p>
+    </div>
+   </div>
+
+  </body>
+ </html>
